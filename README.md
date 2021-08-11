@@ -1,6 +1,6 @@
 # GMS2 Free Export To Windows EXE
 
-1. Open your project and **run** the game:![image-20210811164516609](README.assets\image-20210811164516609.png)
+1. Open your project and **run** the game:![image-20210811164516609](.\README.assets\image-20210811164516609.png)
 
 2. Don't close the game, find "**(...).Runner.exe -game (...).win**" in output:![image-20210811165454546](README.assets\image-20210811165454546.png)
 3. Go to the "**(...).Runner.exe**" path and copy **Runner.exe** to a new folder:![image-20210811165557493](README.assets\image-20210811165557493.png)
